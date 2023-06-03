@@ -1,0 +1,43 @@
+@media(max-width:1000px){
+
+    .header-list{
+        display: none;
+    }
+    
+    .side-list{
+        display: block;
+        width:500px;
+    }
+    
+    
+    .fa-bars{
+        display: block;
+        float:right;
+        font-size:40px;
+        padding-top:30px;
+    }
+    }
+    
+    
+    
+@media(max-width:670px){
+    
+    .header-list{
+        display:none;
+    
+    }
+    
+    .side-list{
+        display: block;
+    }
+    
+    .fa-bars{
+        display: block;
+        float:right;
+        margin:30px auto;
+        padding:0 30px 0 30px;
+        font-size: 30px;
+        color:black;
+    }
+}
+    
