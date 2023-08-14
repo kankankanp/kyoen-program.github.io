@@ -111,6 +111,19 @@ main{
   text-align: center;
 }
 
+.img-itibu img{
+  width:100%;
+}
+
+.img-nibu img{
+  width:100%;
+}
+
+.img-sanbu img{
+  width:100%;
+}
+
+
 
 footer{
   height:200px;
